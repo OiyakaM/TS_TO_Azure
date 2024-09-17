@@ -1,6 +1,6 @@
-# Tokyo-Olympics-Azure-Data-Engineering-Project
+# Total Sport/ Tokyo Olympics-Azure-Data-Engineering-Project
 
-In my Tokyo Olympics-Azure-Data-Engineering project, I developed a data pipeline using Azure Data Factory to process Tokyo Olympics data. Initially, I sourced CSV files from my GitHub repository and ingested them into Azure Data Lake Storage Gen2, structuring the files hierarchically for efficient data management.
+In my Total Sport/ Tokyo Olympics-Azure-Data-Engineering project, I developed a data pipeline using Azure Data Factory to process Tokyo Olympics data. Initially, I sourced CSV files from my GitHub repository and ingested them into Azure Data Lake Storage Gen2, structuring the files hierarchically for efficient data management.
 
 The project's next phase involved data transformation. For this, I utilized Azure Databricks, integrating it with Azure to perform necessary data manipulations. Key tasks included validating and correcting column data types and leveraging PySpark for its efficiency in big data processing.
 
